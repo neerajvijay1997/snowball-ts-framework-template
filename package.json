@@ -1,0 +1,14 @@
+{
+  "name": "@snowballtools/snowball-ts-framework-template",
+  "version": "0.0.1",
+  "description": "ts framework template",
+  "main": "index.js",
+  "author": "Snowball Tools Inc. <viv@snowballtools.xyz>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.5.6",
+    "typescript": "^5.2.2"
+  },
+  "repository": "https://github.com/snowball-tools/snowball-ts-framework-template.git"
+}
