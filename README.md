@@ -1,4 +1,4 @@
-# snowball-ts-framework-template
+# snowball-ts-framework-template- test
 
 NOTE: This is a template for creating a typescript library. It is not intended to be used.
 
